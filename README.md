@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, c and c++
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rajutsavraj@gmail.com
+- 📫 How to reach me rajutsavraj12@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: student at jiit prsuing b.tech in ece and a vibrant personality 
 
